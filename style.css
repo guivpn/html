@@ -1,0 +1,59 @@
+body {
+    padding: 20px;
+}
+
+p {
+    color: magenta;
+}
+
+.p-numerados {
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+    background-color: yellow;
+}
+
+#p1 {
+    background-color: black;
+    color: red;
+}
+
+h2 {
+    border-bottom: 1px solid red;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.decoration {
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+a:visited {
+    color: rgb(241, 13, 13);
+}
+
+a:hover {
+    background-color: yellow;
+}
+
+.serifada {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.sem-serifa {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.monoespacada {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Caixa {
+    width: 150;
+    height: 100;
+    border: 10px solid blue;
+    padding:  100px;
+    margin: 10px;
+}
